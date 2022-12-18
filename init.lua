@@ -1,2 +1,1 @@
 require("oxter")
-print("test")
