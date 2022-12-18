@@ -1,1 +1,2 @@
 require("oxter")
+print("test")
